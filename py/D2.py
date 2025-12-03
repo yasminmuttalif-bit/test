@@ -30,6 +30,7 @@ words_count = len(word)
 char_count = len(message_1)
 sentence_count = message_1.count('.') + message_1.count('!') + message_1.count('?')
 
+
 print(f"total word: {words_count}")
 print(f"total Characters: {char_count}")
 print(f"total sentence: {sentence_count}")

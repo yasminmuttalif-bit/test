@@ -1,21 +1,21 @@
-# name = "Yasmin"
-# age = 29
-# weight = 65.9
-# is_female = True
+name = "Yasmin"
+age = 29
+weight = 65.9
+is_female = True
 
-# print(weight)
-# print(type(weight))
+print(weight)
+print(type(weight))
 
-# x = 10
-# y = 3
+x = 10
+y = 3
 
-# print(x + y)
-# print(x - y)
-# print(x * y)
-# print(x / y)
-# print(x // y) # Floor division
-# print(x % y)  # Modulus
-# print(x ** y) # Exponentiation
+print(x + y)
+print(x - y)
+print(x * y)
+print(x / y)
+print(x // y) # Floor division
+print(x % y)  # Modulus
+print(x ** y) # Exponentiation
 
 
 name = "Yasmin"
